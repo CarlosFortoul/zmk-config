@@ -157,8 +157,3 @@
         };
     };
 };
-
-// this fixes the nice_view displays
-&spi3 {
-    cs-gpios = <&pro_micro 0 GPIO_ACTIVE_HIGH>;
-};
