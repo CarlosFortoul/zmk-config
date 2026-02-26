@@ -7,4 +7,4 @@ Reference inspiration: [Miryoku README](https://github.com/manna-harbour/miryoku
 
 *** Layers
 
-[[cefv_keymap.png]]
+![Layers](./cefv_keymap.png)
